@@ -537,7 +537,8 @@ var algorithmConfig = {
             'org.springframework.beans.factory.ObjectFactory',
             'org.apache.xalan.xsltc.trax.TemplatesImpl',
             'com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl',
-            'com.mchange.v2.c3p0.impl.PoolBackedDataSourceBase'
+            'com.mchange.v2.c3p0.impl.PoolBackedDataSourceBase',
+			'org.springframework.context.support.ClassPathXmlApplicationContext'
         ]
     },
 
